@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\bin\Debug\Denemezoo2.exe.config
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\bin\Debug\Denemezoo2.exe
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\bin\Debug\Denemezoo2.pdb
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.Form1.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.exe
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.pdb
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.Yonlen.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.Formegitmen.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.FormGosteri.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.FormGosteriYeri.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.FormBilet.resources
+C:\Users\Lenovo\Desktop\PROJELER\Denemezoo2\obj\Debug\Denemezoo2.Giris.resources
